@@ -6,8 +6,6 @@ the program will then enter these into google and fetch you some recipes you can
 
 great for cocktails, dinner, and snacks
 
-You can use this for anything and everything. I didn't create anything special, just something useful so I have not included any licensing for this as there is really just no need for that
+You can use this for anything and everything. I have not included any licensing for this as there is really just no need for that
 
-If you want to update this and make something cooler than it already is feel free to send it to me. 
-
-Don't forget to install beautiful soup 4 and selenium to use this program.
+Don't forget to install beautiful soup 4 and selenium to use this program, I have included a requirements file for a pip install of selenium and bs4 as well as the version of python i used to write thi.
